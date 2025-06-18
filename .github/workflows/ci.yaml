@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   test:
-    runs-on:ubuntu-latest 
+    runs-on: ubuntu-latest
 
     steps:
       - name: Code auschecken
@@ -18,3 +18,4 @@ jobs:
 
       - name: REST Assured Tests mit Maven ausführen
         run: mvn test
+ # Fix indentation with spaces
