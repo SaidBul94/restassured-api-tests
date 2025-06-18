@@ -20,13 +20,13 @@ The goal of this project is to:
 | Test Type               | Description                                             | Status       |
 |-------------------------|---------------------------------------------------------|--------------|
 | ✅ Positive Testing      | Valid requests return correct responses                | ✔️ Implemented |
-| ✅ Negative Testing      | Invalid requests handled gracefully                    | ⏳ Planned     |
+| ✅ Negative Testing      | Invalid requests handled gracefully                    | ✔️ Implemented |
 | ✅ Status & Headers      | Verifying status codes and HTTP headers                | ⏳ Planned     |
 | ✅ Response Body Checks  | Validate data structure and expected values            | ✔️ Implemented |
 | ✅ Authentication Tests  | Token or Basic Auth validation                         | ⏳ Planned     |
 | ✅ JSON Schema Validation| Contract-based structure validation                    | ⏳ Planned     |
 | ✅ Database Validation   | Validate DB state before/after API call (via JDBC)     | ⏳ Planned     |
-| ✅ CI/CD Integration     | Run tests via GitHub Actions or Jenkins                | ⏳ Planned     |
+| ✅ CI/CD Integration     | Run tests via GitHub Actions or Jenkins                | ✔️ Implemented |
 
 ---
 
